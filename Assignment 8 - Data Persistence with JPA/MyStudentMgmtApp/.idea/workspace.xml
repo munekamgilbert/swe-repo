@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eccfa590-31d1-4289-9826-a6fb8093037e" name="Changes" comment="" />
+    <list default="true" id="eccfa590-31d1-4289-9826-a6fb8093037e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyStudentMgmtApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyStudentMgmtApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment 9 - eRegistrar/eRegistrar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment 9 - eRegistrar/eRegistrar/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,17 +56,6 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyStudentMgmtApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="MyStudentMgmtApp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="edu.mum.cs.cs425.studentmgmt.MyStudentMgmtApp" />
@@ -86,6 +79,8 @@
       <workItem from="1726340449531" duration="4000" />
       <workItem from="1726340489873" duration="57000" />
       <workItem from="1726340946893" duration="444000" />
+      <workItem from="1726346441210" duration="1044000" />
+      <workItem from="1727578964993" duration="32000" />
     </task>
     <servers />
   </component>
